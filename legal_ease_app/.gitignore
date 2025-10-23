@@ -1,0 +1,39 @@
+# Flutter & Dart build outputs
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.dart_tool/
+
+# IDE settings (personal)
+.idea/
+.vscode/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python / virtualenv (since you have venv/)
+venv/
+__pycache__/
+
+# Generated plugin code
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Logs
+*.log
+
+# Environment & secrets (if any)
+.env
+*.jks
+key.properties
+
+# Node or web build cache (if used)
+node_modules/
