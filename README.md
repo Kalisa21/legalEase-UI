@@ -36,8 +36,12 @@ LegalEase is a comprehensive legal app designed to help users access legal infor
 - **FAQ Section**: Expandable frequently asked questions
 - **External Resources**: Direct links to Rwanda legal resources
 - **UI Reference**: Native implementation of complex UI patterns
+<img width="1080" height="2400" alt="Screenshot_1761339994" src="https://github.com/user-attachments/assets/664c700c-6565-468b-b701-8a5068a3b81b" />
+
+<img width="1080" height="2400" alt="Screenshot_1761340091" src="https://github.com/user-attachments/assets/6e066dfa-75cd-49b5-b32b-09d7db9ebbbc" />
 
 ##  Tech Stack
+
 
 - **Frontend**: Flutter (Dart)
 - **State Management**: StatefulWidget with setState
