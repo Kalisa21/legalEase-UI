@@ -2,44 +2,46 @@
 
 # LegalEase App
 
+video link: https://youtu.be/ozvvfUPlHOg
+
 A Flutter-based legal knowledge and consultation application with an integrated AI chatbot for legal assistance.
 
-## 📱 Overview
+##  Overview
 
 LegalEase is a comprehensive legal app designed to help users access legal information, track their legal knowledge progress, and get AI-powered assistance for legal questions. The app features a modern UI with dashboard analytics, topic exploration, and real-time chat functionality.
 
-## ✨ Features
+##  Features
 
-### 🏠 Home Screen
+###  Home Screen
 - **Topic Exploration**: Browse legal categories (Criminal Law, Civil Law, Business Law, etc.)
 - **Search & Filter**: Advanced search with category filters
 - **Card Stack**: Interactive carousel showcasing legal topics with images
 - **Profile Navigation**: Quick access to user profile
 
-### 📊 Analytics Dashboard
+###  Analytics Dashboard
 - **Knowledge Progress**: Semi-circular gauge showing total legal knowledge score
 - **Learning Time Tracking**: Visual representation of time spent learning
 - **Interactive Charts**: Dynamic bar charts with refresh functionality
 - **Recent Topics**: Track recently accessed legal topics
 
-### 🤖 AI Chatbot
+###  AI Chatbot
 - **Real-time Chat**: Integration with FastAPI backend for legal assistance
 - **Intent Recognition**: Displays classified intents from user queries
 - **Typing Indicators**: Smooth animations during bot responses
 - **Cross-platform Support**: Works on iOS simulator and Android emulator
 
-### 💡 Knowledge Gap (Help)
+###  Knowledge Gap (Help)
 - **FAQ Section**: Expandable frequently asked questions
 - **External Resources**: Direct links to Rwanda legal resources
 - **UI Reference**: Native implementation of complex UI patterns
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend**: Flutter (Dart)
 - **State Management**: StatefulWidget with setState
 - **HTTP Client**: http package for API communication
 - **UI Components**: Custom widgets with Material Design
-- **Charts**: Custom painted charts and gauges
+- **Charts**: charts and gauges
 - **Navigation**: Named routes with MaterialPageRoute
 
 ## 📋 Prerequisites
@@ -50,7 +52,7 @@ LegalEase is a comprehensive legal app designed to help users access legal infor
 - Java 17 (for Android builds)
 - FastAPI backend running (for chatbot functionality)
 
-## 🚀 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -77,7 +79,7 @@ LegalEase is a comprehensive legal app designed to help users access legal infor
    flutter run
    ```
 
-## 🔧 Configuration
+##  Configuration
 
 ### Chatbot API Setup
 
@@ -169,7 +171,7 @@ Expected response:
    - Universal: `build/app/outputs/flutter-apk/app-release.apk`
    - Split: `app-arm64-v8a-release.apk`, `app-armeabi-v7a-release.apk`, etc.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 lib/
@@ -195,7 +197,7 @@ assets/
 └── business.png
 ```
 
-## 🎨 Design Features
+## Design Features
 
 - **Modern Material Design**: Clean, professional interface
 - **Custom Animations**: Smooth transitions and loading states
@@ -203,7 +205,7 @@ assets/
 - **Dark Theme Support**: Professional color scheme
 - **Interactive Elements**: Floating action buttons, animated charts
 
-## 🔗 Dependencies
+##  Dependencies
 
 ```yaml
 dependencies:
@@ -217,7 +219,7 @@ dependencies:
   url_launcher: ^6.3.0
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/new-feature`)
@@ -225,11 +227,11 @@ dependencies:
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🆘 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
