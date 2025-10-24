@@ -3,13 +3,14 @@
 # LegalEase App
 
 video link: https://youtu.be/ozvvfUPlHOg
-api url : https://github.com/Kalisa21/Mission-capstone---legalEase.git 
 
-A Flutter-based legal knowledge and consultation application with an integrated AI chatbot for legal assistance.
+api url: https://github.com/Kalisa21/Mission-capstone---legalEase.git 
+
+A Flutter-based legal knowledge  application with an integrated AI chatbot.
 
 ##  Overview
 
-LegalEase is a comprehensive legal app designed to help users access legal information, track their legal knowledge progress, and get AI-powered assistance for legal questions. The app features a modern UI with dashboard analytics, topic exploration, and real-time chat functionality.
+LegalEase is a comprehensive legal app designed to help users access legal information, track their legal knowledge progress,  for legal questions. The app features a modern UI with dashboard analytics, topic exploration, and real-time chat functionality.
 
 ##  Features
 
