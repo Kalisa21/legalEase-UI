@@ -6,7 +6,7 @@ video link: https://youtu.be/ozvvfUPlHOg
 
 api url: https://github.com/Kalisa21/Mission-capstone---legalEase.git 
 
-apk : https://drive.google.com/file/d/1hpF82VAlI5_JvXZD7P9F8Ht3H5vQiUX_/view?usp=sharing 
+apk : https://drive.google.com/file/d/1hpF82VAlI5_JvXZD7P9F8Ht3H5vQiUX_/view?usp=sharing  
 
 A Flutter-based legal knowledge  application with an integrated AI chatbot.
 
